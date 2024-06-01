@@ -1,4 +1,4 @@
-# Airline-Delay-Analysis
+# Dash sample project: Airline Delay Analysis
 
 ### Dashboard with Dash and Python
 
@@ -23,31 +23,31 @@ This dashboard is designed using Dash, a Python framework for building analytica
 - Clone this repository:
 
   ```bash
-  git clone https://github.com/
+  git clone https://github.com/farzadkhani/dash_sample_project
   ```
 - Navigate to the project directory:
 
   ```bash
   cd dash_sample_project
-  
+
   ```
 - Create enviorment:
 
   ```bash
   python3 -m virtualenv venv
-  
+
   ```
 - Activate enviorment:
 
   ```bash
   source venv/bin/activate
-  
+
   ```
 - Install required packages:
 
   ```bash
   pip install -r requirements.txt
-  
+
   ```
 - Install dependencies:
 
@@ -66,4 +66,3 @@ This dashboard is designed using Dash, a Python framework for building analytica
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
